@@ -53,7 +53,15 @@ I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/">Engi
 
 Prior to my PhD, I completed my MSc in Eletric Engineering at <a href="https://www5.usp.br/">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my MSc, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/">Prof. Fátima de Lourdes dos Santos Nunes</a>.
 
-I earned my Bachelor's degree in Computing from <a href="https://www.poli.usp.br/">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.
+I earned my Bachelor's degree in Computing from <a href="https://www.politecnica.usp.br/">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.
+
+<!-- Prior to this, in my MSc work, I proposed [GlueFL](https://arxiv.org/abs/2212.01523), a federated learning framework designed to optimize downstream bandwidth. Even before, I did an internship at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working with [Dr. Yang Chen](https://www.microsoft.com/en-us/research/people/yachen/). We worked on [Forerunner](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf), a novel computing framework that leverages speculative execution to accelerate transaction processing on [Ethereum](https://ethereum.org/en/). -->
+
+<!-- I love solving algorithm problems. In past years, I participated in a number of programming contests, such as [ACM ICPC Regional Contest](https://icpc.global/), [IEEEXtreme](https://ieeextreme.org/), and [National Olympiad in Informatics in Province](https://www.noi.cn/). I am also an experienced codeforces [user](https://codeforces.com/profile/TCtower) :). -->
+
+<!-- # Heading
+sss -->
+
 
 ## Publications
 <ul>
@@ -100,3 +108,13 @@ I earned my Bachelor's degree in Computing from <a href="https://www.poli.usp.br
 <br/>The research focused on image classification in computed tomography for pulmonary embolism classification, leveraging convolutional architectures with LSTM and TCN modules.
 </li>
 </ul>
+
+<!-- Lafuente, E., <u><strong>Lürig, M.D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., and Räsänen, K.. Building on 150 years of knowledge: the freshwater isopod <i>Asellus aquaticus</i> as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution. <i>In press</i>. -->
+
+<!-- 
+<h1>{{ "Recent Publication" | toc .toc__menu }}</h1>
+sdasdasd
+
+<h2>{{ "Recent Publication" | toc__menu}}</h2>
+
+sdsasas -->
