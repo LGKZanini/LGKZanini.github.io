@@ -28,13 +28,13 @@ jobs:
     - name: Deploy to GitHub Pages
       if: github.ref == 'refs/heads/main'
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
-        git clone --branch gh-pages https://github.com/${{ github.repository }} gh-pages
+        git config --global user.email "luiz.zanini5@gmail.com"
+        git config --global user.name "Luiz Zanini"
+        git clone --branch gh-pages https://github.com/${{ github.repository }} gh-pages || git clone https://github.com/${{ github.repository }} gh-pages
         rsync -av --delete _site/ gh-pages/
         cd gh-pages
         git add .
-        git commit -m "Deploy Jekyll site"
+        git commit -m "Deploy Jekyll site" || echo "No changes to commit"
         git push origin gh-pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
