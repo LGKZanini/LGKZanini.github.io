@@ -1,7 +1,5 @@
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-// Tente comentar esta linha se estiver causando problemas
-// @import "minimal-mistakes/vendor/breakpoint/breakpoint";
