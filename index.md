@@ -53,7 +53,7 @@ I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/">Engi
 
 Prior to my PhD, I completed my MSc in Eletric Engineering at <a href="https://www5.usp.br/">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my MSc, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/">Prof. Fátima de Lourdes dos Santos Nunes</a>.
 
-I earned my Bachelor's degree in Computing from <a href="https://www.politecnica.usp.br/">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.
+I earned my Bachelor's degree in Computing from <a href="https://www.poli.usp.br/">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.
 
 ## Publications
 <ul>
