@@ -101,7 +101,8 @@ PLATFORMS
   arm64-darwin
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.3.3)
+  jekyll-sass-converter
   minimal-mistakes-jekyll
 
 BUNDLED WITH
