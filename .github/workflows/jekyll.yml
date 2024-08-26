@@ -11,6 +11,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        # Use o SSH URL do repositório para checkout
+        repository: ${{ github.repository }}
+        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
@@ -31,8 +35,3 @@ jobs:
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
         chmod 600 ~/.ssh/id_ed25519
         ssh-keyscan github.com >> ~/.ssh/known_hosts
-
-    - name: Check out the repository
-      uses: actions/checkout@v3
-      with:
-        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
