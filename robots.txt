@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://lgkzanini.github.io/sitemap.xml
