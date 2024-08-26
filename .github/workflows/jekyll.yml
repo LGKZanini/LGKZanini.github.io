@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v3
       with:
-        # Use o SSH URL do repositório para checkout
         repository: ${{ github.repository }}
-        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+        token: ${{ secrets.GH_PAT }}
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
@@ -28,10 +28,3 @@ jobs:
 
     - name: Build the site
       run: bundle exec jekyll build
-
-    - name: Setup SSH
-      run: |
-        mkdir -p ~/.ssh
-        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
-        chmod 600 ~/.ssh/id_ed25519
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
