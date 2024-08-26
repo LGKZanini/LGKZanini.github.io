@@ -109,12 +109,3 @@ sss -->
 </li>
 </ul>
 
-<!-- Lafuente, E., <u><strong>Lürig, M.D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., and Räsänen, K.. Building on 150 years of knowledge: the freshwater isopod <i>Asellus aquaticus</i> as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution. <i>In press</i>. -->
-
-<!-- 
-<h1>{{ "Recent Publication" | toc .toc__menu }}</h1>
-sdasdasd
-
-<h2>{{ "Recent Publication" | toc__menu}}</h2>
-
-sdsasas -->
