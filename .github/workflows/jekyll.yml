@@ -29,6 +29,6 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Verifique o nome do segredo
+        github_token: ${{ secrets.GH_PAT }} # Verifique o nome do segredo
         publish_branch: gh-pages
         publish_dir: ./_site
