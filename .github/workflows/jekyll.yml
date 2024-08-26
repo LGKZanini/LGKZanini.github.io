@@ -29,19 +29,6 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GH_PAT }} # Verifique o nome do segredo
+        github_token: ${{ secrets.GH_PAT }}
         publish_branch: gh-pages
         publish_dir: ./_site
-        
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-        with:
-          branch: gh-pages  # Aqui você especifica a branch gh-pages
