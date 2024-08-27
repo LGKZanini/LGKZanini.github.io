@@ -48,6 +48,19 @@ strong {
 .justify-text {
   text-align: justify;
 }
+
+.fa-rss {
+  display: none;
+}
+
+.footer .fa-rss {
+  display: none !important;
+}
+
+a[href="/feed.xml"] {
+  display: none;
+}
+
 </style>
 
 
