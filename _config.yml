@@ -25,9 +25,6 @@ words_per_minute         : 200
 comments:
   provider               : false
 
-atom_feed:
-  path                   : feed.xml
-
 # Social Sharing
 twitter:
   username               : luizzanini
@@ -48,7 +45,7 @@ social:
       url: "https://scholar.google.com/citations?user=AQ6wte8AAAAJ&hl=pt-BR&authuser=1"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-8344-3178"
+      url: "https://orcid.org/0000-0002-8344-3178"
 
 # Analytics
 analytics:
