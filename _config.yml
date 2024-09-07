@@ -10,11 +10,11 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LGKZanini"
+title                    : "Luiz Guilherme Zanini - LGKZanini"
 title_separator          : "-"
 subtitle                 : "A website about my work and research"
-name                     : "Luiz Zanini"
-description              : "A website about my work and research."
+name                     : "Luiz Guilherme Zanini"
+description              : "Luiz Guilherme Zanini's personal website about his work, research, and contributions to computer vision and engineering."
 url                      : "https://lgkzanini.github.io"
 baseurl                  : "" 
 repository               : "LGKZanini/LGKZanini.github.io"
@@ -32,7 +32,7 @@ twitter:
 # Social Profiles
 social:
   type                   : Person
-  name                   : Luiz Zanini
+  name                   : Luiz Guilherme Zanini
   links: 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
