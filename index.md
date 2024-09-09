@@ -72,7 +72,7 @@ a[href="/feed.xml"] {
 <div class="justify-text">
   <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/">Engineering</a> at <a href="https://www.etsmtl.ca/">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>, my supevisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/">Prof. Alessandro Koerchi</a>.</p>
   
-  <p>I completed my master degree in Eletric Engineering at <a href="https://www5.usp.br/">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p>
+  <p>I completed my master’s degree in Eletric Engineering at <a href="https://www5.usp.br/">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master’s degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p>
   
   <p>I earned my Bachelor's degree in Computing from <a href="https://www.politecnica.usp.br/">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.</p>
 </div>
