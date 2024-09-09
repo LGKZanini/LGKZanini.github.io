@@ -70,11 +70,11 @@ a[href="/feed.xml"] {
 
 ## Studies
 <div class="justify-text">
-  <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/">Engineering</a> at <a href="https://www.etsmtl.ca/">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>, my supevisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/">Prof. Alessandro Koerchi</a>.</p>
+  <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>, my supervisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerchi</a>.</p>
   
-  <p>I completed my master’s degree in Eletric Engineering at <a href="https://www5.usp.br/">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master’s degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p>
+  <p>I completed my master’s degree in Electrical Engineering at <a href="https://www5.usp.br/" target="_blank">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master’s degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/" target="_blank">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p>
   
-  <p>I earned my Bachelor's degree in Computing from <a href="https://www.politecnica.usp.br/">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.</p>
+  <p>I earned my Bachelor's degree in Computing from <a href="https://www.poli.usp.br/" target="_blank">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.</p>
 </div>
 
 ## Publications
@@ -87,27 +87,27 @@ a[href="/feed.xml"] {
     </li>
     
     <li>
-      <strong><a href="https://pubmed.ncbi.nlm.nih.gov/38429559/">A Systematic Review on Caries Detection, Classification, and Segmentation from X-Ray Images: Methods, Datasets, Evaluation, and Open Opportunities</a></strong>
+      <strong><a href="https://pubmed.ncbi.nlm.nih.gov/38429559/" target="_blank">A Systematic Review on Caries Detection, Classification, and Segmentation from X-Ray Images: Methods, Datasets, Evaluation, and Open Opportunities</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">Journal Imaging Inform Med. Published online March 1, 2024.</em> DOI: <a href="https://doi.org/10.1007/s10278-024-01054-5">https://doi.org/10.1007/s10278-024-01054-5</a>
+      <br/><em style="color:seagreen;">Journal Imaging Inform Med. Published online March 1, 2024.</em> DOI: <a href="https://doi.org/10.1007/s10278-024-01054-5" target="_blank">https://doi.org/10.1007/s10278-024-01054-5</a>
     </li>
     
     <li>
-      <strong><a href="https://www.scitepress.org/Papers/2024/123653/123653.pdf">Segmentation and Classification of Dental Caries in Cone Beam Tomography Images using Machine Learning and Image Processing</a></strong>
+      <strong><a href="https://www.scitepress.org/Papers/2024/123653/123653.pdf" target="_blank">Segmentation and Classification of Dental Caries in Cone Beam Tomography Images using Machine Learning and Image Processing</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF, pages 428-435.</em> DOI: <a href="https://doi.org/10.5220/0012365300003657">https://doi.org/10.5220/0012365300003657</a>
+      <br/><em style="color:seagreen;">In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF, pages 428-435.</em> DOI: <a href="https://doi.org/10.5220/0012365300003657" target="_blank">https://doi.org/10.5220/0012365300003657</a>
     </li>
     
     <li>
-      <strong><a href="https://sol.sbc.org.br/index.php/sbcas/article/view/25272">Identification and quantification of caries from CBCT segmented images</a></strong>
+      <strong><a href="https://sol.sbc.org.br/index.php/sbcas/article/view/25272" target="_blank">Identification and quantification of caries from CBCT segmented images</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">In Proceedings of the 23rd Brazilian Symposium on Computing Applied to Health, June 27, 2023, São Paulo/SP, Brazil. SBC, Brasil, 1-12.</em> DOI: <a href="https://doi.org/10.5753/sbcas.2023.229376">https://doi.org/10.5753/sbcas.2023.229376</a>
+      <br/><em style="color:seagreen;">In Proceedings of the 23rd Brazilian Symposium on Computing Applied to Health, June 27, 2023, São Paulo/SP, Brazil. SBC, Brasil, 1-12.</em> DOI: <a href="https://doi.org/10.5753/sbcas.2023.229376" target="_blank">https://doi.org/10.5753/sbcas.2023.229376</a>
     </li>
     
     <li>
-      <strong><a href="https://doi.org/10.5753/eniac.2022.227585">Convolutional architectures with LSTM and TCN to embolism classification: exploring dependency between data</a></strong>
+      <strong><a href="https://doi.org/10.5753/eniac.2022.227585" target="_blank">Convolutional architectures with LSTM and TCN to embolism classification: exploring dependency between data</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Aldomar Silva, Felipe Almeida, Fátima Nunes, and Anna Costa
-      <br/><em style="color:seagreen;">In Proceedings of the 19th National Meeting on Artificial and Computational Intelligence, November 28, 2022, Brazil. SBC, Brasil, 461-472.</em> DOI: <a href="https://doi.org/10.5753/eniac.2022.227585">https://doi.org/10.5753/eniac.2022.227585</a>
+      <br/><em style="color:seagreen;">In Proceedings of the 19th National Meeting on Artificial and Computational Intelligence, November 28, 2022, Brazil. SBC, Brasil, 461-472.</em> DOI: <a href="https://doi.org/10.5753/eniac.2022.227585" target="_blank">https://doi.org/10.5753/eniac.2022.227585</a>
     </li>
   </ul>
 </div>

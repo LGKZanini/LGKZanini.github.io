@@ -55,7 +55,7 @@ analytics:
 author:
   name             : "Luiz Guilherme Kasputis Zanini"
   avatar           : "/assets/images/personal.jpg"
-  bio              : "Researcher in Engineering focusing on Computer Vision - <strong>[LIVIA](https://liviamtl.ca/)</strong> <br/> luiz.kasputis-zanini.1@ens.etsmtl.ca"
+  bio              : "Researcher in Engineering focusing on Computer Vision - <strong>[LIVIA](https://liviamtl.ca/)</strong> <br/> <a href="mailto:luiz.kasputis-zanini.1@ens.etsmtl.ca?subject=Assunto do email">luiz.kasputis-zanini.1@ens.etsmtl.ca</a>"
   location         : "Montreal, Canada"
   links:
     - label: "LinkedIn"
