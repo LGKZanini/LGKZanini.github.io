@@ -4,7 +4,7 @@ author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
-last_modified_at: 2024-08-26
+last_modified_at: 2024-1ß0-15
 
 ---
 <style type="text/css">
@@ -95,13 +95,11 @@ a[href="/feed.xml"] {
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
       <br/><em style="color:seagreen;">In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF, pages 428-435.</em> DOI: <a href="https://doi.org/10.5220/0012365300003657" target="_blank">https://doi.org/10.5220/0012365300003657</a>
     </li>
-    
     <li>
       <strong><a href="https://sol.sbc.org.br/index.php/sbcas/article/view/25272" target="_blank">Identification and quantification of caries from CBCT segmented images</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
       <br/><em style="color:seagreen;">In Proceedings of the 23rd Brazilian Symposium on Computing Applied to Health, June 27, 2023, São Paulo/SP, Brazil. SBC, Brasil, 1-12.</em> DOI: <a href="https://doi.org/10.5753/sbcas.2023.229376" target="_blank">https://doi.org/10.5753/sbcas.2023.229376</a>
     </li>
-    
     <li>
       <strong><a href="https://doi.org/10.5753/eniac.2022.227585" target="_blank">Convolutional architectures with LSTM and TCN to embolism classification: exploring dependency between data</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Aldomar Silva, Felipe Almeida, Fátima Nunes, and Anna Costa
@@ -117,7 +115,6 @@ a[href="/feed.xml"] {
       <strong>Best Final Paper of the Computer Engineering Poli - USP 2022</strong>
       <br/>The final project involved using image processing for segmentation and machine learning to classify the intensity of caries, as well as incorporating virtual reality for result visualization.
     </li>
-    
     <li>
       <a><strong>Second place for best paper in the undergraduate category at the National Meeting of Artificial and Computational Intelligence (ENIAC)</strong></a>
       <br/>The research focused on image classification in computed tomography for pulmonary embolism classification, leveraging convolutional architectures with LSTM and TCN modules.
