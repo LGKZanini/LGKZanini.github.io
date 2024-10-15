@@ -83,15 +83,13 @@ a[href="/feed.xml"] {
     <li>
       <strong>Enhancing Dental Caries Classification in CBCT Images by using Image Processing and Self-Supervised Learning</strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:#800017;">Submitted to a journal, currently under review.</em>
+      <br/><em style="color:seagreen;">Computers in Biology and Medicine, Published online Oct 7, 2024.</em>
     </li>
-    
     <li>
       <strong><a href="https://pubmed.ncbi.nlm.nih.gov/38429559/" target="_blank">A Systematic Review on Caries Detection, Classification, and Segmentation from X-Ray Images: Methods, Datasets, Evaluation, and Open Opportunities</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
       <br/><em style="color:seagreen;">Journal Imaging Inform Med. Published online March 1, 2024.</em> DOI: <a href="https://doi.org/10.1007/s10278-024-01054-5" target="_blank">https://doi.org/10.1007/s10278-024-01054-5</a>
     </li>
-    
     <li>
       <strong><a href="https://www.scitepress.org/Papers/2024/123653/123653.pdf" target="_blank">Segmentation and Classification of Dental Caries in Cone Beam Tomography Images using Machine Learning and Image Processing</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
