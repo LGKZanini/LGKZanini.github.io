@@ -4,7 +4,7 @@ author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
-last_modified_at: 2024-1ß0-15
+last_modified_at: 2024-10-15
 
 ---
 <style type="text/css">
@@ -81,12 +81,12 @@ a[href="/feed.xml"] {
 <div class="justify-text">
   <ul>
     <li>
-      <strong>Enhancing Dental Caries Classification in CBCT Images by using Image Processing and Self-Supervised Learning</strong>
+      <strong><a href="https://www.sciencedirect.com/science/article/pii/S0010482524013064?via%3Dihub" target="_blank">Enhancing Dental Caries Classification in CBCT Images by using Image Processing and Self-Supervised Learning</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">Computers in Biology and Medicine, Published online Oct 7, 2024.</em>
+      <br/><em style="color:seagreen;">Computers in Biology and Medicine, Published online Oct 7, 2024.</em> DOI: <a href="https://doi.org/10.1016/j.compbiomed.2024.109221" target="_blank">https://doi.org/10.1016/j.compbiomed.2024.109221</a>
     </li>
     <li>
-      <strong><a href="https://pubmed.ncbi.nlm.nih.gov/38429559/" target="_blank">A Systematic Review on Caries Detection, Classification, and Segmentation from X-Ray Images: Methods, Datasets, Evaluation, and Open Opportunities</a></strong>
+      <strong><a href="https://link.springer.com/article/10.1007/s10278-024-01054-5" target="_blank">A Systematic Review on Caries Detection, Classification, and Segmentation from X-Ray Images: Methods, Datasets, Evaluation, and Open Opportunities</a></strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
       <br/><em style="color:seagreen;">Journal Imaging Inform Med. Published online March 1, 2024.</em> DOI: <a href="https://doi.org/10.1007/s10278-024-01054-5" target="_blank">https://doi.org/10.1007/s10278-024-01054-5</a>
     </li>
