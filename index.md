@@ -4,7 +4,7 @@ author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
-last_modified_at: 2024-10-15
+last_modified_at: 2024-12-20
 
 ---
 <style type="text/css">
@@ -63,18 +63,26 @@ a[href="/feed.xml"] {
 
 </style>
 
+## Introduction
 
 <div class="justify-text">
-  <p>Hi, my name is Luiz Guilherme, but everyone calls me Luiz. I'm really passionate about applied computing, especially in computer vision, which has been my research focus for the past few years.</p>
+  <p>Hi, my name is Luiz Guilherme, but everyone calls me Luiz. I enjoy applying computing projects to computer vision, which has been my research focus for the past few years. I am particularly interested in leveraging advanced machine learning techniques to solve real-world challenges in this field.</p>
+  
+  <p>I like playing games, although I haven’t had much time recently. My top five favorite games (not in order, as I haven’t decided yet) are <em>The Witcher 3: Wild Hunt</em>, <em>The Elder Scrolls V: Skyrim</em>, <em>Red Dead Redemption 2</em>, <em>Elden Ring</em>, and <em>Baldur's Gate 3</em>. I enjoy open-world games with intriguing stories, and most of these are titles I've played multiple times, appreciating narratives.</p>
+  
+  <p>Nowadays, I’m more focused on watching animes and TV series. You can check out my <a href="https://boxd.it/5WY9T" target="_blank">Letterboxd profile</a>, where I try to log every movie I watch, though I often forget. So far, I’ve recorded 334 movies that I can remember watching.</p>
+
 </div>
 
-## Studies
+## Biography
 <div class="justify-text">
-  <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>. My advisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerchi</a>, and my co-advisor is <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>.</p>
   
-  <p>I completed my master’s degree in Electrical Engineering at <a href="https://www5.usp.br/" target="_blank">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master’s degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/" target="_blank">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p>
+  <p>In 2024, I began my PhD in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, under the guidance of <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerich</a> and <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>. My research focuses on <em>Multimodal Learning</em> for <em>Emotion Recognition</em>, exploring approaches to combining modalities such as audio and text while addressing challenges related to missing data and noisy signals.</p>
+
+  <p>During my master’s degree in Electrical Engineering at the <a href="https://www.poli.usp.br/" target="_blank">Universidade Politécnica de São Paulo (USP)</a>, I focused entirely on research, refining my machine learning skills and specializing in <em>machine learning</em> for medical imaging. Under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/" target="_blank">Prof. Fátima de Lourdes dos Santos Nunes</a>, I presented my work internationally and published more than five papers as the first author.</p>
+
+  <p>I earned my Bachelor’s degree in Computer Engineering from <a href="https://www5.usp.br/" target="_blank">USP</a>, where I had the opportunity to develop my skills through diverse experiences. I participated in competitive programming extension groups, began studying machine learning in depth, and gained professional experience through internships and working at three different companies.</p>
   
-  <p>I earned my Bachelor's degree in Computing from <a href="https://www.poli.usp.br/" target="_blank">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.</p>
 </div>
 
 ## Publications
@@ -112,11 +120,11 @@ a[href="/feed.xml"] {
 <div class="justify-text">
   <ul>
     <li>
-      <strong>Best Final Paper of the Computer Engineering Poli - USP 2022</strong>
+      <strong><a href="https://pcs.usp.br/ppmec/2023/03/01/projeto-de-formatura-de-alunos-da-turma-2022-sao-premiados/">Best Final Paper of the Computer Engineering Poli - USP 2022</a></strong>
       <br/>The final project involved using image processing for segmentation and machine learning to classify the intensity of caries, as well as incorporating virtual reality for result visualization.
     </li>
     <li>
-      <a><strong>Second place for best paper in the undergraduate category at the National Meeting of Artificial and Computational Intelligence (ENIAC)</strong></a>
+      <strong>Second place for best paper in the undergraduate category at the National Meeting of Artificial and Computational Intelligence (ENIAC)</strong>
       <br/>The research focused on image classification in computed tomography for pulmonary embolism classification, leveraging convolutional architectures with LSTM and TCN modules.
     </li>
   </ul>
