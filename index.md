@@ -4,7 +4,7 @@ author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
-last_modified_at: 2024-12-20
+last_modified_at: 2026-07-11
 
 ---
 <style type="text/css">
@@ -66,22 +66,28 @@ a[href="/feed.xml"] {
 ## Introduction
 
 <div class="justify-text">
-  <p>Hi, my name is Luiz Guilherme, but everyone calls me Luiz. I enjoy applying computing projects to computer vision, which has been my research focus for the past few years. I am particularly interested in leveraging advanced machine learning techniques to solve real-world challenges in this field.</p>
+  <p>Hi, I am Luiz Guilherme, everyone just calls me Luiz. I have spent the last few years working with computer vision and machine learning, mostly trying to figure out how to turn these techniques into something actually useful </p>
   
-  <p>I like playing games, although I haven’t had much time recently. My top five favorite games (not in order, as I haven’t decided yet) are <em>The Witcher 3: Wild Hunt</em>, <em>The Elder Scrolls V: Skyrim</em>, <em>Red Dead Redemption 2</em>, <em>Elden Ring</em>, and <em>Baldur's Gate 3</em>. I enjoy open-world games with intriguing stories, and most of these are titles I've played multiple times, appreciating narratives.</p>
+  <p>Outside of that, I like playing games, even though I have not had much time for it lately. My top five games (no particular order, I still have not decided), it would be <em>The Witcher 3: Wild Hunt</em>, <em>The Elder Scrolls V: Skyrim</em>, <em>Metal Gear solid 3</em>, <em>Elden Ring</em> and <em>Baldur's Gate 3</em>. I just really like open-world games with a good story.</p>
   
-  <p>Nowadays, I’m more focused on watching animes and TV series. You can check out my <a href="https://boxd.it/5WY9T" target="_blank">Letterboxd profile</a>, where I try to log every movie I watch, though I often forget. So far, I’ve recorded 334 movies that I can remember watching.</p>
+  <p>These days I am watching way more animes and TV shows than actually gaming. I keep a <a href="https://boxd.it/5WY9T" target="_blank">Letterboxd profile</a> where I try to log every movie I watch, though I have not updated it since early 2025 and I forget more often than not. So far I have got 334 movies logged that I actually remember watching</p>
+
+
+  <p>Right now I am obsessed with climbing indoors. I started my first session in July 2025, but I only started practicing regularly, about twice a week, in January 2026. At the moment I can flash some V4 boulders, and with a few tries I can do some V5s, so I would say I am a soft V4 climber. This year I am planning to start cycling and try climbing outdoors</p>
 
 </div>
 
 ## Biography
 <div class="justify-text">
   
-  <p>In 2024, I began my PhD in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, under the guidance of <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerich</a> and <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>. My research focuses on <em>Multimodal Learning</em> for <em>Emotion Recognition</em>, exploring approaches to combining modalities such as audio and text while addressing challenges related to missing data and noisy signals.</p>
+
+  <p>Back in São Paulo, I joined <strong>Mercado Livre</strong> as a Data Scientist (Feb 2025 - Jul 2026), where I designed and deployed real-time ML scoring systems for marketplace fraud detection and credit card transaction risk.</p>
+
+  <p>In 2024, I started a PhD in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a> in Montreal, working with <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerich</a> and <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a> on <em>Multimodal Learning</em> for <em>Emotion Recognition</em>. Partway through, I realized academia wasn't where I wanted to be right then, so I left the program and moved back to Brazil.</p>
 
   <p>During my master’s degree in Electrical Engineering at the <a href="https://www.poli.usp.br/" target="_blank">Universidade Politécnica de São Paulo (USP)</a>, I focused entirely on research, refining my machine learning skills and specializing in <em>machine learning</em> for medical imaging. Under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/" target="_blank">Prof. Fátima de Lourdes dos Santos Nunes</a>, I presented my work internationally and published more than five papers as the first author.</p>
 
-  <p>I earned my Bachelor’s degree in Computer Engineering from <a href="https://www5.usp.br/" target="_blank">USP</a>, where I had the opportunity to develop my skills through diverse experiences. I participated in competitive programming extension groups, began studying machine learning in depth, and gained professional experience through internships and working at three different companies.</p>
+  <p>I earned my Bachelor’s degree in Computer Engineering from <a href="https://www5.usp.br/" target="_blank">USP</a>, where I had the opportunity to develop my skills through diverse experiences. I participated in competitive programming extension groups, began studying machine learning in depth, and gained professional experience through internships.</p>
   
 </div>
 
